@@ -22,7 +22,7 @@ Installation
 Clone the Repository:
 
 
-git clone https://github.com/your-username/technician-support-system.git
+git clone https://github.com/dorffilc/technician-support-system.git
 cd technician-support-system
 
 Install Required Packages: Ensure you have Python 3.8+ installed, then install the necessary libraries:
