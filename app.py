@@ -23,9 +23,8 @@ client = MongoClient("mongodb://localhost:27017/")
 db = client["tech_demo"]
 collection = db["techi_tickets"]
 
-# Define user credentials
-USERNAME = "Hoistech"
-PASSWORD = "password123"
+USERNAME = ''
+PASSWORD = ''
 
 ## Initialize session state for login status
 if 'logged_in' not in st.session_state:
